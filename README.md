@@ -6,7 +6,7 @@ Besides programming, I enjoy eating spicy food and travelling.
 
  <img align="right" alt="GIF" src="https://github.com/neospeed83/neospeed83/blob/master/code.gif?raw=true" width="450" height="288" />
 
-
+<br />
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning GraphQL and Kubernetes; 
@@ -15,7 +15,7 @@ Besides programming, I enjoy eating spicy food and travelling.
 - 📝[Resume](https://drive.google.com/file/d/17ra_GAjFDLw4gflMSDKSTmA6DpUWGZHW/view?usp=sharing)
 
 
-**Languages and Tools:**  
+**Languages and Tools:** <br /> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -27,7 +27,7 @@ Besides programming, I enjoy eating spicy food and travelling.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-**Social Media:**  
+**Social Media:**  <br />
 <a href="https://twitter.com/neospeed83">
   <img align="left" alt="Akash Devdhar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
