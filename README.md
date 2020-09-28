@@ -4,7 +4,7 @@ Hi, I'm [Akash Devdhar](https://neospeed83.github.io/portfolio/), a Full Stack D
 I'm passionate about web technologies and open source. I am pursuing Masters in Software Engineering from Arizona State University.
 Besides programming, I enjoy eating spicy food and travelling.
 
- <img align="right" alt="GIF" src="https://github.com/neospeed83/neospeed83/blob/master/code.gif?raw=true" width="400" height="256" />
+ <img align="right" alt="GIF" src="https://github.com/neospeed83/neospeed83/blob/master/code.gif?raw=true" width="450" height="288" />
 
 
 
