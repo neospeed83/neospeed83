@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=neospeed83.neospeed83)
 
 Hi, I'm [Akash Devdhar](https://neospeed83.github.io/portfolio/), a Full Stack Developer. 🚀 
 I'm passionate about web technologies and open source. Currently pursuing Masters in Software Engineering from Arizona State University.
@@ -37,7 +37,5 @@ Besides programming, I enjoy eating food and travelling.
 <a href="https://www.instagram.com/neospeed83/">
   <img align="left" alt="Akash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=neospeed83.neospeed83)
 
 <br />
