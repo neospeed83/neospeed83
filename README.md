@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi! I am Akash 👋
 
-<!--
-**neospeed83/neospeed83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a grad student pursuing Masters in Software Engineering from Arizona State University, Tempe.
 
-Here are some ideas to get you started:
+- 💻 I’m currently working on a react native app for daily brief facts and news
+- 🧠 I’m currently learning react native and hadoop
+- 👯 I’m looking to collaborate on a AI/ML project
+- 😄 Pronouns: he/him/his
+ 
+### You can find me on:
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+👔 [linkedin][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[website]: https://neospeed83.github.io/portfolio/
+[twitter]: https://twitter.com/neospeed83
+[linkedin]: https://www.linkedin.com/in/akashdevdhar/
