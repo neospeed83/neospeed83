@@ -2,14 +2,14 @@
 
 Hi, I'm [Akash Devdhar](https://neospeed83.github.io/portfolio/), one ever learning developer. 🚀 
 I'm passionate about web technologies and open source. I am pursuing Masters in Software Engineering from Arizona State University.
-Besides programming, I enjoy eating spicy food and travelling.
+Besides programming, I enjoy pool/billiards.
 
  <img align="right" alt="GIF" src="https://github.com/neospeed83/neospeed83/blob/master/code.gif?raw=true" width="450" height="288" />
 
 <br />
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and Kubernetes; 
+- 🌱 I’m currently learning GraphQL; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@neospeed83](https://twitter.com/neospeed83);
 - 📝[Resume](https://drive.google.com/file/d/1gsNjYGbWzkpJ1vXHrIxeBsOqkdf_cSJk/view?usp=sharing)
