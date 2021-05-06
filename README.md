@@ -12,7 +12,7 @@ Besides programming, I enjoy pool/billiards.
 - 🌱 I’m currently learning GraphQL; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@neospeed83](https://twitter.com/neospeed83);
-- 📝[Resume](https://drive.google.com/file/d/1gsNjYGbWzkpJ1vXHrIxeBsOqkdf_cSJk/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1HxHpnNC_T4UymVUEJgjLT4zIkPp69KL9/view?usp=sharing)
 
 
 **Languages and Tools:** 
