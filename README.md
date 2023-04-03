@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=neospeed83.neospeed83)
 
-Hi, I'm [Akash Devdhar](https://neospeed83.github.io/portfolio/), one ever learning developer. 🚀 
-I'm passionate about web technologies and open source. I am pursuing Masters in Software Engineering from Arizona State University.
+Hi, I'm [Akash Devdhar](https://www.akashdevdhar.com), one ever learning developer. 🚀 
+I'm passionate about web technologies and open source.
 Besides programming, I enjoy pool/billiards.
 
  <img align="right" alt="GIF" src="https://github.com/neospeed83/neospeed83/blob/master/code.gif?raw=true" width="450" height="288" />
@@ -9,7 +9,7 @@ Besides programming, I enjoy pool/billiards.
 <br />
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL; 
+- 🌱 I’m currently learning Vue; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@neospeed83](https://twitter.com/neospeed83);
 - 📝[Resume](https://drive.google.com/file/d/1HxHpnNC_T4UymVUEJgjLT4zIkPp69KL9/view?usp=sharing)
