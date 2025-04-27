@@ -1,5 +1,3 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=neospeed83.neospeed83)
-
 Hi, I'm [Akash Devdhar](https://www.akashdevdhar.com), one ever learning developer. 🚀 
 I'm passionate about web technologies and open source.
 Besides programming, I enjoy pool/billiards.
