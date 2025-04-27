@@ -6,8 +6,7 @@ Besides programming, I enjoy snooker and pool.
 
 <br />
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning MCP Server
+- 🌱 I’m currently learning MCP Servers and LLM integrations
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@neospeed83](https://twitter.com/neospeed83)
 - 📝[Resume]([https://drive.google.com/file/d/1HxHpnNC_T4UymVUEJgjLT4zIkPp69KL9/view?usp=sharing](https://drive.google.com/file/d/13sn6Hk2AQXVpnuKQFL7a6sjBIB0oeirk/view?usp=sharing))
