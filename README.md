@@ -1,6 +1,6 @@
 Hi, I'm [Akash Devdhar](https://www.akashdevdhar.com), one ever learning developer. 🚀 
 I'm passionate about web technologies and open source.
-Besides programming, I enjoy pool/billiards.
+Besides programming, I enjoy snooker and pool.
 
  <img align="right" alt="GIF" src="https://github.com/neospeed83/neospeed83/blob/master/code.gif?raw=true" width="450" height="288" />
 
@@ -10,7 +10,7 @@ Besides programming, I enjoy pool/billiards.
 - 🌱 I’m currently learning Vue; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@neospeed83](https://twitter.com/neospeed83);
-- 📝[Resume](https://drive.google.com/file/d/1HxHpnNC_T4UymVUEJgjLT4zIkPp69KL9/view?usp=sharing)
+- 📝[Resume]([https://drive.google.com/file/d/1HxHpnNC_T4UymVUEJgjLT4zIkPp69KL9/view?usp=sharing](https://drive.google.com/file/d/13sn6Hk2AQXVpnuKQFL7a6sjBIB0oeirk/view?usp=sharing))
 
 
 **Languages and Tools:** 
@@ -30,8 +30,5 @@ Besides programming, I enjoy pool/billiards.
   <img align="left" alt="Akash Devdhar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/akashdevdhar/">
-  <img align="left" alt="Akash's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/neospeed83/">
-  <img align="left" alt="Akash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
